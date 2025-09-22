@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'task-managment 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'task-managment 1.0-SNAPSHOT API'
+com.monapp
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/src/main/java = 1758571608654
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/element-list = 1758575107968
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/overview-tree.html = 1758575108011
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/allclasses-index.html = 1758575108031
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/allpackages-index.html = 1758575108034
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/module-search-index.js = 1758575108035
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/package-search-index.js = 1758575108036
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/type-search-index.js = 1758575108036
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/member-search-index.js = 1758575108037
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/tag-search-index.js = 1758575108037
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/index-all.html = 1758575108055
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/search.html = 1758575108057
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/index.html = 1758575108059
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/help-doc.html = 1758575108066
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/stylesheet.css = 1758575108070
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/script.js = 1758575108071
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/copy.svg = 1758575108071
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/link.svg = 1758575108072
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/search.js = 1758575108075
+/home/fedora/eclipse-workspace/apprendre-java-avec-maven/task-managment/target/reports/apidocs/search-page.js = 1758575108076
